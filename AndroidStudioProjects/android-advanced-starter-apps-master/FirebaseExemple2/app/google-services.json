@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "188801739263",
+    "firebase_url": "https://bambey2-48908.firebaseio.com",
+    "project_id": "bambey2-48908",
+    "storage_bucket": "bambey2-48908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188801739263:android:fd192630b37cf44c5c5fca",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexemple2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188801739263-b7jakt87t2udodt1dj7l0aalbo6i3o4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9ClBAa6fq_ldhG5BbZGfrkv-y5n3dUts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188801739263-b7jakt87t2udodt1dj7l0aalbo6i3o4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

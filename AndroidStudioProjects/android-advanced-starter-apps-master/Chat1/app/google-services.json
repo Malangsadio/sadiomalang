@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514383708584",
+    "firebase_url": "https://chatapp-daca4.firebaseio.com",
+    "project_id": "chatapp-daca4",
+    "storage_bucket": "chatapp-daca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514383708584:android:240b380cdc7da5fddd9d9d",
+        "android_client_info": {
+          "package_name": "com.example.chat1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514383708584-s6f9i7j8820j3bg4utula3ibtkhd9o2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6aphWuXnLrWgcfWKj-F9TIHL8ZMyQMAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514383708584-s6f9i7j8820j3bg4utula3ibtkhd9o2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
